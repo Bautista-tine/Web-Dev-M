@@ -1,0 +1,21 @@
+body{
+    overflow-x: hidden;
+}
+
+.image1{
+    height: 100vh;
+    width: 100%;
+}
+
+.carousel-item{
+    
+}
+    
+.navbar{
+    background-color: 	#00000011;
+}
+
+.card{
+   border: none;
+   object-fit: fill;
+}
